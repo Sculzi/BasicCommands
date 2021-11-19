@@ -1,0 +1,11 @@
+main: com.markuss.main.main
+name: BasicCommands
+version: 1.0
+commands:
+  heal:
+      description: This command heals you.
+      permission: basiccommands.allowheal
+  feed:
+      description: This command feeds you.
+      permission: basiccommands.allowfeed
+  
